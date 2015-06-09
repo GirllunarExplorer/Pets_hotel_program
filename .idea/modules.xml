@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pets_hotel_program.iml" filepath="$PROJECT_DIR$/.idea/Pets_hotel_program.iml" />
+      <module fileurl="file://$USER_HOME$/code/exercism/python/ocr-numbers/.idea/ocr-numbers.iml" filepath="$USER_HOME$/code/exercism/python/ocr-numbers/.idea/ocr-numbers.iml" />
+      <module fileurl="file://$USER_HOME$/code/exercism/python/phone-number/.idea/phone-number.iml" filepath="$USER_HOME$/code/exercism/python/phone-number/.idea/phone-number.iml" />
+      <module fileurl="file://$USER_HOME$/code/exercism/python/wordy/.idea/wordy.iml" filepath="$USER_HOME$/code/exercism/python/wordy/.idea/wordy.iml" />
+    </modules>
+  </component>
+</project>
+
