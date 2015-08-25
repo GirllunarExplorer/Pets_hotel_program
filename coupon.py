@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 __author__ = 'GirlLunarExplorer'
+=======
+#!/usr/bin/env python
+__author__ = 'tracyrohlin'
+>>>>>>> Stashed changes
 
 from selenium import webdriver
 
